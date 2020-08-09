@@ -3,7 +3,7 @@
 ![Screenshot of the site](./docs/images/thirtysecondstomars-screenshot.png)
 
 ## Live demo 
-[Thirty Seconds to Mars](https://thirtysecondstomars.herokuapp.com/)
+[Thirty Seconds to Mars](https://30stomars.annietaylorchen.com/)
 
 ## Tech and Micro-services used
 - Node.js (Express.js)
